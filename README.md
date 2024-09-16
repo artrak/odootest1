@@ -1,2 +1,2 @@
 # odootest1
-for learn ___1
+for learn ___1s
